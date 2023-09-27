@@ -1,1 +1,4 @@
-# Strives-SDE-Sheet-Challenge-master
+# Strivers-SDE-Sheet-Challenge
+
+Link of SDE Sheet
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
